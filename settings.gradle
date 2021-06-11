@@ -1,0 +1,2 @@
+rootProject.name='Cadastro_Heroi'
+include ':app'
